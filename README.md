@@ -38,7 +38,11 @@ My name is WildCharger. I'm a software developer & content creator in the United
 </div>
 
 ### GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=WildChargerTV)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=WildChargerTV&theme=dark" alt="GitHub Streak" />
+  </a>
+</div>
 
 <!--
 **WildChargerTV/WildChargerTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
