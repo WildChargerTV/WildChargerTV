@@ -1,4 +1,5 @@
-## Hi there 👋
+![Banner - GitHub](https://github.com/user-attachments/assets/193fd9ff-e704-4125-87b3-f114f8a4516d)
+
 
 <!--
 **WildChargerTV/WildChargerTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
