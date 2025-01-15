@@ -2,7 +2,7 @@
 
 Hello, wanderer!
 
-My name is WildCharger. I'm a software developer & content creator in the United States with a lot of different interests in the space & science fiction genres (and Pokémon). 
+My name is WildCharger. I'm a software developer & content creator in the United States with a lot of different interests in the space & science fiction genres (and Pokémon). I currently work on projects pertaining to the games EVERSPACE™ and TRON 2.0.
 
 ### I specialize in the following:
 <div>
