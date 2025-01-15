@@ -37,6 +37,9 @@ My name is WildCharger. I'm a software developer & content creator in the United
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40" />&nbsp;
 </div>
 
+### GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=WildChargerTV)](https://git.io/streak-stats)
+
 <!--
 **WildChargerTV/WildChargerTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
